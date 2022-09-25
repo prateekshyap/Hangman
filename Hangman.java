@@ -816,7 +816,7 @@ class MyFrame extends JFrame implements Runnable, ActionListener
 		try
 		{
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","prateekshyap","Soni1999");
+			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","admin","pass");
 		}
 		catch(Exception ee)
 		{
@@ -2229,7 +2229,7 @@ class ChooseCategory extends JFrame
 		try
 		{
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","prateekshyap","Soni1999");
+			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","admin","pass");
 		}
 		catch(Exception ee)
 		{
@@ -2754,7 +2754,7 @@ class MultiPlayerInterface extends JFrame
 		try
 		{
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","prateekshyap","Soni1999");
+			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","admin","pass");
 		}
 		catch(Exception ee)
 		{
@@ -3061,7 +3061,7 @@ class Login extends JFrame
 		try
 		{
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","prateekshyap","Soni1999");
+			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","admin","pass");
 		}
 		catch(Exception ee)
 		{
@@ -3457,7 +3457,7 @@ class DataEntry extends JFrame implements ActionListener
 		try
 		{
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","prateekshyap","Soni1999");
+			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","admin","pass");
 		}
 		catch(Exception ee)
 		{
@@ -4087,7 +4087,7 @@ class Recover extends JFrame
 		try
 		{
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","prateekshyap","Soni1999");
+			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","admin","pass");
 		}
 		catch(Exception ee)
 		{
@@ -4684,7 +4684,7 @@ class SignUp extends JFrame
 		try
 		{
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","prateekshyap","Soni1999");
+			conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","admin","pass");
 		}
 		catch(Exception ee)
 		{
