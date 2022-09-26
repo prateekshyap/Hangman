@@ -1,7 +1,7 @@
 # Hangman
 A demo hangman game using Java.
 
-1. Go to [Hangman](./Hangman)
+1. Fork this repository.
 2. Type the following commands in terminal: <br>
 ````javac Hangman.java```` <br>
 ````java Hangman```` <br>
