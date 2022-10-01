@@ -38,3 +38,21 @@ https://user-images.githubusercontent.com/39868948/192153349-762c701a-6066-423b-
 
 
 
+7. Sample of different Modes<br>
+  a. Classic Mode:<br>
+  
+
+https://user-images.githubusercontent.com/39868948/193397682-440a2326-26f9-4f55-b742-3d58248636d4.mp4
+
+
+  b. Suicide Mode:<br>
+  
+
+https://user-images.githubusercontent.com/39868948/193397685-18fa0ec2-0e25-4ddb-b883-35bed7bb4e7d.mp4
+
+
+  c. Multiplayer Mode: <br>
+  
+
+https://user-images.githubusercontent.com/39868948/193397690-0f62eb11-cdb5-4c38-a47a-026d6cc80e97.mp4
+
